@@ -1,0 +1,20 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.nk{
+    background:white;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+}
+.link:hover{
+    font-size: large;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
